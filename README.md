@@ -1,3 +1,7 @@
+# To Try this App
+
+You need to create a .env file and include your openAI API key as "REACT_APP_OPENAI_KEY"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
